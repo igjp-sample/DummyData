@@ -1,22 +1,32 @@
 [
     {
         "lang": "en-US",
-        "maleNames": ["Kyle", "Oscar", "Ralph", "Mike", "Bill", "Frank", "Howard", "Jack", "Larry", "Pete", "Steve", "Vince", "Mark", "Alex", "Max", "Brian", "Chris", "Andrew", "Martin", "Mike", "Steve", "Glenn", "Bruce"]
+        "maleNames": ["Kyle", "Oscar", "Ralph", "Mike", "Bill", "Frank", "Howard", "Jack", "Larry", "Pete", "Steve", "Vince", "Mark", "Alex", "Max", "Brian", "Chris", "Andrew", "Martin", "Mike", "Steve", "Glenn", "Bruce"],
+        "femaleNames": ["Gina", "Irene", "Katie", "Brenda", "Casey", "Fiona", "Holly", "Kate", "Liz", "Pamela", "Nelly", "Marisa", "Monica", "Anna", "Jessica", "Sofia", "Isabella", "Margo", "Jane", "Audrey", "Sally", "Melanie", "Greta", "Aurora", "Sally"],
+        "lastNames": ["Adams", "Crowley", "Ellis", "Martinez", "Irvine", "Maxwell", "Clark", "Owens", "Rooney", "Lincoln", "Thomas", "Spacey", "Betts", "King", "Newton", "Fitzgerald", "Holmes", "Jefferson", "Landry", "Newberry", "Perez", "Spencer", "Starr", "Carter", "Edwards", "Stark", "Johnson", "Fitz", "Chief", "Blanc", "Perry", "Stone", "Williams", "Lane", "Jobs", "Adama", "Power", "Tesla"]
     },
     {
         "lang": "ja-JP",
-        "maleNames": ["智則", "和雄", "喜明", "勝徳", "広志", "和美", "聖二", "雅人", "晴樹", "佳紀", "光浩", "彦俊", "昭一", "哲雄", "吉彦", "裕紀", "貴俊", "恒彦", "光夫", "雅憲", "寛基", "尚史", "一善", "昌史", "宗幸", "吾朗", "宏典", "政司", "哲彦", "勝行", "忠士", "皓太", "知史", "晴義", "晃生", "信輔", "英嗣", "裕馬", "泰臣", "敬士", "正高", "三雄", "剛史", "一俊", "清治", "文吾", "義直", "貴男", "建介", "好昭"]
+        "maleNames": ["智則", "和雄", "喜明", "勝徳", "広志", "和美", "聖二", "雅人", "晴樹", "佳紀", "光浩", "彦俊", "昭一", "哲雄", "吉彦", "裕紀", "貴俊", "恒彦", "光夫", "雅憲", "寛基", "尚史", "一善", "昌史", "宗幸", "吾朗", "宏典", "政司", "哲彦", "勝行", "忠士", "皓太", "知史", "晴義", "晃生", "信輔", "英嗣", "裕馬", "泰臣", "敬士", "正高", "三雄", "剛史", "一俊", "清治", "文吾", "義直", "貴男", "建介", "好昭"],
+        "femaleNames": ["泰子", "裕美", "倫子", "佐知子", "洋子", "久美子", "佳代子", "美由紀", "里沙", "彩香", "夏実", "利香", "聡美", "彩香", "睦", "未佳", "さつき", "幸乃", "利恵", "渚", "千晴", "綾奈", "雪絵", "早希子", "ちはる", "絵梨奈", "香澄", "佐和", "優香", "江里", "麻里奈", "芙美子", "亜里沙", "千帆", "倫子", "理菜", "侑里", "真緒", "茉莉子", "まりえ", "舞美", "好恵", "絵里加", "英美", "亜未", "由子", "沙央里", "沙羅", "菜奈", "なお"],
+        "lastNames": ["佐藤", "鈴木", "高橋", "田中", "伊藤", "山本", "渡辺", "中村", "小林", "加藤", "吉田", "山田", "佐々木", "山口", "松本", "井上", "木村", "林", "斎藤", "清水", "山崎", "阿部", "森", "池田", "橋本", "山下", "石川", "中島", "前田", "藤田", "後藤", "小川", "岡田", "村上", "長谷川", "近藤", "石井", "斉藤", "坂本", "遠藤", "藤井", "青木", "福田", "三浦", "西村", "藤原", "太田", "松田", "原田", "岡本"]
     },
     {
         "lang": "ko-KR",
-        "maleNames": ["Kyle", "Oscar", "Ralph", "Mike", "Bill", "Frank", "Howard", "Jack", "Larry", "Pete", "Steve", "Vince", "Mark", "Alex", "Max", "Brian", "Chris", "Andrew", "Martin", "Mike", "Steve", "Glenn", "Bruce"]
+        "maleNames": ["Kyle", "Oscar", "Ralph", "Mike", "Bill", "Frank", "Howard", "Jack", "Larry", "Pete", "Steve", "Vince", "Mark", "Alex", "Max", "Brian", "Chris", "Andrew", "Martin", "Mike", "Steve", "Glenn", "Bruce"],
+        "femaleNames": ["Gina", "Irene", "Katie", "Brenda", "Casey", "Fiona", "Holly", "Kate", "Liz", "Pamela", "Nelly", "Marisa", "Monica", "Anna", "Jessica", "Sofia", "Isabella", "Margo", "Jane", "Audrey", "Sally", "Melanie", "Greta", "Aurora", "Sally"],
+        "lastNames": ["Adams", "Crowley", "Ellis", "Martinez", "Irvine", "Maxwell", "Clark", "Owens", "Rooney", "Lincoln", "Thomas", "Spacey", "Betts", "King", "Newton", "Fitzgerald", "Holmes", "Jefferson", "Landry", "Newberry", "Perez", "Spencer", "Starr", "Carter", "Edwards", "Stark", "Johnson", "Fitz", "Chief", "Blanc", "Perry", "Stone", "Williams", "Lane", "Jobs", "Adama", "Power", "Tesla"]
     },
     {
         "lang": "zh-CN",
-        "maleNames": ["Kyle", "Oscar", "Ralph", "Mike", "Bill", "Frank", "Howard", "Jack", "Larry", "Pete", "Steve", "Vince", "Mark", "Alex", "Max", "Brian", "Chris", "Andrew", "Martin", "Mike", "Steve", "Glenn", "Bruce"]
+        "maleNames": ["Kyle", "Oscar", "Ralph", "Mike", "Bill", "Frank", "Howard", "Jack", "Larry", "Pete", "Steve", "Vince", "Mark", "Alex", "Max", "Brian", "Chris", "Andrew", "Martin", "Mike", "Steve", "Glenn", "Bruce"],
+        "femaleNames": ["Gina", "Irene", "Katie", "Brenda", "Casey", "Fiona", "Holly", "Kate", "Liz", "Pamela", "Nelly", "Marisa", "Monica", "Anna", "Jessica", "Sofia", "Isabella", "Margo", "Jane", "Audrey", "Sally", "Melanie", "Greta", "Aurora", "Sally"],
+        "lastNames": ["Adams", "Crowley", "Ellis", "Martinez", "Irvine", "Maxwell", "Clark", "Owens", "Rooney", "Lincoln", "Thomas", "Spacey", "Betts", "King", "Newton", "Fitzgerald", "Holmes", "Jefferson", "Landry", "Newberry", "Perez", "Spencer", "Starr", "Carter", "Edwards", "Stark", "Johnson", "Fitz", "Chief", "Blanc", "Perry", "Stone", "Williams", "Lane", "Jobs", "Adama", "Power", "Tesla"]
     },
     {
         "lang": "zh-TW",
-        "maleNames": ["Kyle", "Oscar", "Ralph", "Mike", "Bill", "Frank", "Howard", "Jack", "Larry", "Pete", "Steve", "Vince", "Mark", "Alex", "Max", "Brian", "Chris", "Andrew", "Martin", "Mike", "Steve", "Glenn", "Bruce"]
+        "maleNames": ["Kyle", "Oscar", "Ralph", "Mike", "Bill", "Frank", "Howard", "Jack", "Larry", "Pete", "Steve", "Vince", "Mark", "Alex", "Max", "Brian", "Chris", "Andrew", "Martin", "Mike", "Steve", "Glenn", "Bruce"],
+        "femaleNames": ["Gina", "Irene", "Katie", "Brenda", "Casey", "Fiona", "Holly", "Kate", "Liz", "Pamela", "Nelly", "Marisa", "Monica", "Anna", "Jessica", "Sofia", "Isabella", "Margo", "Jane", "Audrey", "Sally", "Melanie", "Greta", "Aurora", "Sally"],
+        "lastNames": ["Adams", "Crowley", "Ellis", "Martinez", "Irvine", "Maxwell", "Clark", "Owens", "Rooney", "Lincoln", "Thomas", "Spacey", "Betts", "King", "Newton", "Fitzgerald", "Holmes", "Jefferson", "Landry", "Newberry", "Perez", "Spencer", "Starr", "Carter", "Edwards", "Stark", "Johnson", "Fitz", "Chief", "Blanc", "Perry", "Stone", "Williams", "Lane", "Jobs", "Adama", "Power", "Tesla"]
     }
 ]
